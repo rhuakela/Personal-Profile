@@ -9,7 +9,7 @@ void main() {
         appBar: AppBar(
           centerTitle: true,
           title: Text(
-              'NSBM Green University',
+              'Green University',
             style: TextStyle(
               color: Colors.green,
             ),
@@ -51,7 +51,7 @@ void main() {
                    SizedBox(
                      width: 10.0,
                    ),
-                   Text('+94-703142188',
+                   Text('+94-703142176',
                      style: TextStyle(
                        color: Colors.white,
                        fontWeight: FontWeight.bold,
@@ -72,7 +72,7 @@ void main() {
                     SizedBox(
                       width: 10.0,
                     ),
-                    Text('uthumakela8724@gmail.com',
+                    Text('u@gmail.com',
                       style: TextStyle(
                         color: Colors.white,
                         fontWeight: FontWeight.bold,
@@ -94,7 +94,7 @@ void main() {
                     SizedBox(
                       width: 10.0,
                     ),
-                    Text('rhuakela@gmail.com',
+                    Text('a@gmail.com',
                       style: TextStyle(
                         color: Colors.white,
                         fontWeight: FontWeight.bold,
@@ -116,7 +116,7 @@ void main() {
                     SizedBox(
                       width: 10.0,
                     ),
-                    Text('rhuakela@students.nsbm.ac.lk',
+                    Text('u@students.ac.lk',
                       style: TextStyle(
                         color: Colors.white,
                         fontWeight: FontWeight.bold,
@@ -138,7 +138,7 @@ void main() {
                     SizedBox(
                       width: 10.0,
                     ),
-                    Text('10749839@students.plymouth.ac.uk',
+                    Text('u@students.ac.uk',
                       style: TextStyle(
                         color: Colors.white,
                         fontWeight: FontWeight.bold,
@@ -160,7 +160,7 @@ void main() {
                     SizedBox(
                       width: 10.0,
                     ),
-                    Text('NSBM - xxxxx',
+                    Text('NSM - xxxxx',
                       style: TextStyle(
                         color: Colors.white,
                         fontWeight: FontWeight.bold,
@@ -182,7 +182,7 @@ void main() {
                     SizedBox(
                       width: 10.0,
                     ),
-                    Text('Plymouth - xxxxxxxx',
+                    Text('Ply - xxxxxxxx',
                       style: TextStyle(
                         color: Colors.white,
                         fontWeight: FontWeight.bold,
