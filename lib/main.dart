@@ -24,7 +24,7 @@ void main() {
                 backgroundImage: AssetImage('images/uthum.jpg'),
               ),
               Text(
-                'R.H Uthum Akela',
+                'uuuuu uuuuu',
                 style: TextStyle(
                   fontSize: 20.0,
                   color: Colors.white,
@@ -51,7 +51,7 @@ void main() {
                    SizedBox(
                      width: 10.0,
                    ),
-                   Text('+94-703142176',
+                   Text('703142176',
                      style: TextStyle(
                        color: Colors.white,
                        fontWeight: FontWeight.bold,
